@@ -18527,10 +18527,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.77.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.78.apk",
     "lang": "id",
-    "code": 77,
-    "version": "1.4.77",
+    "code": 78,
+    "version": "1.4.78",
     "nsfw": 0,
     "sources": [
       {
